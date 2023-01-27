@@ -5,7 +5,7 @@ import Contact from "./pages/Contact";
 import Home from "./pages/Home";
 
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Errorpage from "./pages/Errorpage";
+// import Errorpage from "./pages/Errorpage";
 
 
 function App() {
@@ -17,7 +17,7 @@ function App() {
       <Route path="/bootstrap-demo" element={<Home />} />
           <Route path="about" element={<About />} />
           <Route path="contact" element={<Contact />} />
-          <Route path="*" element={<Errorpage />} />
+          {/* <Route path="*" element={<Errorpage />} /> */}
       </Routes>
       <Footer />
     </BrowserRouter>
