@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/bootstrap-demo/static/css/main.5f80b3a5.css",
-    "main.js": "/bootstrap-demo/static/js/main.c626f92f.js",
-    "index.html": "/bootstrap-demo/index.html",
-    "main.5f80b3a5.css.map": "/bootstrap-demo/static/css/main.5f80b3a5.css.map",
-    "main.c626f92f.js.map": "/bootstrap-demo/static/js/main.c626f92f.js.map"
+    "main.css": "/bootstrap-demo/bootstrap-demo/static/css/main.5f80b3a5.css",
+    "main.js": "/bootstrap-demo/bootstrap-demo/static/js/main.c626f92f.js",
+    "index.html": "/bootstrap-demo/bootstrap-demo/index.html",
+    "main.5f80b3a5.css.map": "/bootstrap-demo/bootstrap-demo/static/css/main.5f80b3a5.css.map",
+    "main.c626f92f.js.map": "/bootstrap-demo/bootstrap-demo/static/js/main.c626f92f.js.map"
   },
   "entrypoints": [
     "static/css/main.5f80b3a5.css",
