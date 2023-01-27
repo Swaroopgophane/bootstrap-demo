@@ -11,7 +11,7 @@ import Errorpage from "./pages/Errorpage";
 function App() {
   return (
     <>
-      <BrowserRouter>
+      <BrowserRouter basename="/bootstrap-demo">
       <Header />
       <Routes>
       <Route exact path="/" element={<Home />} />
